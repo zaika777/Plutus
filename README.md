@@ -9,7 +9,7 @@ Bitcoin Brute Forcer<br/>
 
 <b>A Constant Internet Connection Is Required</b>
 
-Installation: 
+Installation:$ pip install -r requirements.txt 
 
 ```
 $ git clone https://github.com/Isaacdelly/Plutus
@@ -19,12 +19,14 @@ $ cd Plutus
 $ pip install -r requirements.txt 
 ```
 
-Run File: 
 
-```
-$ cd Plutus
+Run File: $ cd Plutus
 
 $ python plutus.py
+
+
+
+
 ```
 
 #
