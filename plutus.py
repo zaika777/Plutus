@@ -9,7 +9,7 @@ try:183hmJGRuTEi2YDCWy5iozY8rZtFwVgahM
     import multiprocessing
     from multiprocessing import Process, Queue
     from multiprocessing.pool import ThreadPool
-    import base58183hmJGRuTEi2YDCWy5iozY8rZtFwVgahM  
+    import base58  
     import ecdsa
     Импортировать запросы
  except ImportError
