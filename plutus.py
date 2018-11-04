@@ -9,10 +9,10 @@ try:183hmJGRuTEi2YDCWy5iozY8rZtFwVgahM
     import multiprocessing
     from multiprocessing import Process, Queue
     from multiprocessing.pool import ThreadPool
-    import base58
+    import base58183hmJGRuTEi2YDCWy5iozY8rZtFwVgahM  
     import ecdsa
-    import requests
-except ImportError:
+    Импортировать запросы
+ except ImportError
     import subprocess
     subprocess.check_call(["python", '-m', 'pip', 'install', 'base58==1.0.0'])
     subprocess.check_call(["python", '-m', 'pip', 'install', 'ecdsa==0.13'])
